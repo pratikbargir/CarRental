@@ -30,6 +30,8 @@ This Car Rental platform is built with performance, security, and scalability in
 **Home Page:**
 
 ![image](https://github.com/user-attachments/assets/5eccc456-591c-4ce8-af8a-2cbc2f53e2f4)
+
+
 **About Page:**
 ![image](https://github.com/user-attachments/assets/3a79e1d5-aefb-401f-803d-021a8c2e2cad)
 
